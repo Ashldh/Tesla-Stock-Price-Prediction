@@ -22,9 +22,9 @@ A comparative study was conducted between ARIMA and Long Short-Term Memory (LSTM
 
 ## Dataset
 
-Source: Yahoo Finance
+Source: Kaggle
 
-Ticker: TSLA
+
 
 Features:
 
